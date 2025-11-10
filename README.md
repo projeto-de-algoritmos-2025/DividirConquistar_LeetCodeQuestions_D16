@@ -31,15 +31,15 @@ Este repositório apresenta soluções para quatro problemas do LeetCode, organi
 
 #### C++
 
-- 2426. Number of Pairs Satisfying Inequality
+- Number of Pairs Satisfying Inequality
 ![2426. Number of Pairs Satisfying Inequality](./assets/numberofpairs.png)
 
 #### C\#
 
-- 3537. Fill a Special Grid
+- Fill a Special Grid
 ![3537. Fill a Special Grid](./assets/fillaspecial.png)
 
-- 1985. Find the Kth Largest Integer in the Array
+- Find the Kth Largest Integer in the Array
 ![1985. Find the Kth Largest Integer in the Array](./assets/findthekth.png)
 
 ---
