@@ -97,7 +97,7 @@ dotnet run --project solutions/csharp/FindKth
 
 ## Apresentação
 
-Vídeo disponível em: [Apresentação D16](https://youtu.be/)
+Vídeo disponível em: [Apresentação D16](https://www.youtube.com/watch?v=N4RLllN3aN0)
 
 ## Outros
 
